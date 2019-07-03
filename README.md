@@ -32,7 +32,7 @@ Major topics include SQL processing with SAS and the SAS macro language, advance
 - Formatting Data
 - Modifying SAS Data Sets and Tracking Changes
 
-## Code (Sample)
+## SAS Code Samples
 - SAS_SQL_Access.sas	
 - SAS_Subsetting.sas
 - SAS_Functions.sas
