@@ -11,7 +11,6 @@ Major topics include SQL processing with SAS and the SAS macro language, advance
 - In a web browser on your local computer, enter http://localhost:10080.
 - From the SAS University Edition: Information Center, click Start SAS Studio.
 
-
 ## Codebook (Tutorial)
 - Performing Queries Using PROC SQL
 - Performing Advanced Queries Using PROC SQL
