@@ -4,13 +4,6 @@
 ## Goal
 Major topics include SQL processing with SAS and the SAS macro language, advanced SAS programming techniques, and optimizing SAS programs. This Repository helps you to learn the Advanced Programming for SAS.
 
-## Usage
-
-### Windows users
-- In VirtualBox, select the SAS University Edition vApp, and then select Machine > Start. It might take a few minutes for the virtual machine to start.
-- In a web browser on your local computer, enter http://localhost:10080.
-- From the SAS University Edition: Information Center, click Start SAS Studio.
-
 ## Codebook (Tutorial)
 - Performing Queries Using PROC SQL
 - Performing Advanced Queries Using PROC SQL
@@ -30,6 +23,13 @@ Major topics include SQL processing with SAS and the SAS macro language, advance
 - Using Lookup Tables to Match Data
 - Formatting Data
 - Modifying SAS Data Sets and Tracking Changes
+
+## Usage
+
+### Windows users
+- In VirtualBox, select the SAS University Edition vApp, and then select Machine > Start. It might take a few minutes for the virtual machine to start.
+- In a web browser on your local computer, enter http://localhost:10080.
+- From the SAS University Edition: Information Center, click Start SAS Studio.
 
 ## SAS Code Samples
 - SAS_SQL_Access.sas	
