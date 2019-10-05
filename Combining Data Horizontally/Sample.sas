@@ -146,20 +146,3 @@ data mylib.empmaster;
    update mylib.empmaster mylib.empchanges;
    by empid;
 run;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
