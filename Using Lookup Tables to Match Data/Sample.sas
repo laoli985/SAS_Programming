@@ -109,12 +109,3 @@ else do;
    DestAirport='';
 end;
 run;
-
-
-
-
-
-
-
-
-
