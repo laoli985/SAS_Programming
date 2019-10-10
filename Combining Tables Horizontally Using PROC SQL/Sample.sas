@@ -70,8 +70,3 @@ proc sql;
       where m.jobcategory=c.jobcategory
             and m.state=c.state;
 quit;
-
-
-
-
-
