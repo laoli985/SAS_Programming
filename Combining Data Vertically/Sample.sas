@@ -36,30 +36,3 @@ run;
 proc append base=work.acities
             data=work.airports force;
 run;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
