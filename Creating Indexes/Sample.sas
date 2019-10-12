@@ -43,24 +43,3 @@ proc sql;
           where libname='SASUSER' and
 memname='SALE2000';
    quit;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
