@@ -48,16 +48,3 @@ run;
 proc format lib=sasuser cntlout=sasuser.fmtdata;
    select $airport;
 run;
-
-
-
-
-
-
-
-
-
-
-
-
-
