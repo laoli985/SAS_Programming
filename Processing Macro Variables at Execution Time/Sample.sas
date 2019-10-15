@@ -72,25 +72,3 @@ proc sql noprint;
       where year(begin_date)=2002
       order by begin_date;
 quit;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
