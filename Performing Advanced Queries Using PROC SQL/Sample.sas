@@ -54,7 +54,3 @@ proc sql;
               where name=
                     trim(lastname)||', '||firstname);
 quit;
-
-
-
-
