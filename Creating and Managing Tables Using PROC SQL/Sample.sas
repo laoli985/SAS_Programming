@@ -154,12 +154,3 @@ quit;
 proc sql;
    drop table work.payrollmaster4;
 quit;
-
-
-
-
-
-
-
-
-
