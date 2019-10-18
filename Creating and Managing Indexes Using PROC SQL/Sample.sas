@@ -48,18 +48,3 @@ proc sql;
    drop index daily
       from work.marchflights;
 quit;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
