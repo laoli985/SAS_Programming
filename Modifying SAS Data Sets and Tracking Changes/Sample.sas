@@ -43,30 +43,3 @@ quit;
 proc datasets nolist;
    modify cargorev (genmax=4);
 quit;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
