@@ -40,23 +40,3 @@ quit;
 proc sql;
    drop view sasuser.raisev;
 quit;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
