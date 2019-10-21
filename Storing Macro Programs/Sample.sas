@@ -50,10 +50,3 @@ options mstored sasmstore=macrolib;
    %global &root.num;
    %let &root.num=%eval(&i-1);
 %mend words;
-
-
-
-
-
-
-
