@@ -34,6 +34,3 @@ proc sql;
            sum(milestraveled) as TotalMiles
       from sasuser.frequentflyers
       group by membertype;
-      
-
-      
