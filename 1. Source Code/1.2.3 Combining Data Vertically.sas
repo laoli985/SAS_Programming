@@ -1,6 +1,6 @@
-/* Advanced_Programming_for_SAS                                                 */ 
-/* Chapter 14 • Combining Data Vertically                                       */
-/* Author: David Li                                                             */
+/* Advanced_Programming_for_SAS                                    */ 
+/* Combining Data Vertically                                       */
+/* Author: David Li                                                */
 
 
 /* Combining Raw Data Files Using a FILENAME Statement  */
