@@ -1,6 +1,6 @@
-/* Advanced_Programming_for_SAS                                                 */ 
-/* Chapter 7 • Creating and Managing Views Using PROC SQL                       */
-/* Author: David Li                                                             */
+/* Advanced_Programming_for_SAS                                     */ 
+/* Creating and Managing Views Using PROC SQL                       */
+/* Author: David Li                                                 */
 
 /*  Creating a PROC SQL View   */
 proc sql;
