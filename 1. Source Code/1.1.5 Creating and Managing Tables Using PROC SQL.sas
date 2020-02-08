@@ -1,6 +1,6 @@
-/* Advanced_Programming_for_SAS                                                 */ 
+/* Advanced_Programming_for_SAS                                     */ 
 /* Creating and Managing Tables Using PROC SQL                      */
-/* Author: David Li                                                             */
+/* Author: David Li                                                 */
 
 
 /*  Creating an Empty Table By Defining Columns  */
