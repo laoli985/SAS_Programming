@@ -1,5 +1,5 @@
 /* Advanced_Programming_for_SAS                                                 */ 
-/* Chapter 5 • Creating and Managing Tables Using PROC SQL                      */
+/* Creating and Managing Tables Using PROC SQL                      */
 /* Author: David Li                                                             */
 
 
