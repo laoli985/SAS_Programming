@@ -42,7 +42,6 @@ proc sql noexec;
 quit;
 
 
-
 /* Subsetting Data By Using a Correlated Subquery */
 proc sql;
   title 'Frequent Flyers Who Are Not Employees';
