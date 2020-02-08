@@ -1,6 +1,6 @@
-/* Advanced_Programming_for_SAS                                                 */ 
-/* Chapter 13 • Creating Indexes                                                */
-/* Author: David Li                                                             */
+/* Advanced_Programming_for_SAS                                    */ 
+/* Creating Indexes                                                */
+/* Author: David Li                                                */
 
 
 /*  Creating an Index in the DATA Step  */
