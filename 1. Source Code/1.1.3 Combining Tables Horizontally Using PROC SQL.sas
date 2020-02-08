@@ -1,6 +1,6 @@
-/* Advanced_Programming_for_SAS                                                 */ 
-/* 76Chapter 3 • Combining Tables Horizontally Using PROC SQL                   */
-/* Author: David Li                                                             */
+/* Advanced_Programming_for_SAS                                   */ 
+/* Combining Tables Horizontally Using PROC SQL                   */
+/* Author: David Li                                               */
 
 
 /*    Combining Tables By Using an Inner Join      */
