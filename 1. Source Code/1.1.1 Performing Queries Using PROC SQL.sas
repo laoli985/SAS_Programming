@@ -1,6 +1,6 @@
-/* Advanced_Programming_for_SAS                                                 */ 
+/* Advanced_Programming_for_SAS                                     */ 
 /* Performing Queries Using PROC SQL                                */
-/* Author: David Li                                                             */
+/* Author: David Li                                                 */
 
 /* PROC SQL */
 proc sql;
