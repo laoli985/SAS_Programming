@@ -1,6 +1,6 @@
-/* Advanced_Programming_for_SAS                                                 */ 
-/* 221Chapter 6 • Creating and Managing Indexes Using PROC SQL                  */
-/* Author: David Li                                                             */
+/* Advanced_Programming_for_SAS                                  */ 
+/* Creating and Managing Indexes Using PROC SQL                  */
+/* Author: David Li                                              */
 
 
 /*   Creating a Simple, Unique Index, and a Composite Index     */
