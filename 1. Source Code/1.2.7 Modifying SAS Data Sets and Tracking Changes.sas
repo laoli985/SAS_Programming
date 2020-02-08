@@ -1,6 +1,6 @@
-/* Advanced_Programming_for_SAS                                                 */ 
-/* Chapter 18 • Modifying SAS Data Sets and Tracking Changes                    */
-/* Author: David Li                                                             */
+/* Advanced_Programming_for_SAS                                    */ 
+/* Modifying SAS Data Sets and Tracking Changes                    */
+/* Author: David Li                                                */
 
 
 /* Modifying a Data Set Using the MODIFY Statement with a BY Statement or the KEY= Option  */
