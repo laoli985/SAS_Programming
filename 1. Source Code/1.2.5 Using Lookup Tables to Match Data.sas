@@ -1,6 +1,6 @@
-/* Advanced_Programming_for_SAS                                                 */ 
-/* Chapter 16 • Using Lookup Tables to Match Data                               */
-/* Author: David Li                                                             */
+/* Advanced_Programming_for_SAS                                    */ 
+/* Using Lookup Tables to Match Data                               */
+/* Author: David Li                                                */
 
 
 /*  Using a Multidimensional Array  */
