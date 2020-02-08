@@ -1,6 +1,6 @@
-/* Advanced_Programming_for_SAS                                                 */ 
-/* Chapter 8 • Managing Processing Using PROC SQL                               */
-/* Author: David Li                                                             */
+/* Advanced_Programming_for_SAS                                     */ 
+/* Managing Processing Using PROC SQL                               */
+/* Author: David Li                                                 */
 
 
 /* Querying a Table Using PROC SQL Options  */
