@@ -1,6 +1,6 @@
-/* Advanced_Programming_for_SAS                                                 */ 
-/* Chapter 12 • Storing Macro Programs                                          */
-/* Author: David Li                                                             */
+/* Advanced_Programming_for_SAS                                    */ 
+/* Storing Macro Programs                                          */
+/* Author: David Li                                                */
 
 
 /* Compiling an Externally Stored Macro Definition with the %INCLUDE Statement  */
