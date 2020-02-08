@@ -1,6 +1,6 @@
-/* Advanced_Programming_for_SAS                                                 */ 
-/* Chapter 9 • Introducing Macro Variables                                      */
-/* Author: David Li                                                             */
+/* Advanced_Programming_for_SAS                                     */ 
+/* Introducing Macro Variables                                      */
+/* Author: David Li                                                 */
 
 
 /*  Creating Macro Variables with a %LET Statement  */
@@ -55,7 +55,3 @@ run;
 proc &graphics.plot data=sasuser.y&year&month;
   plot &var*day;
 run;
-
-
-
-
