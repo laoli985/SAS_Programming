@@ -1,6 +1,6 @@
-/* Advanced_Programming_for_SAS                                                 */ 
-/* 323Chapter 10 • Processing Macro Variables at Execution Time                 */
-/* Author: David Li                                                             */
+/* Advanced_Programming_for_SAS                                 */ 
+/* Processing Macro Variables at Execution Time                 */
+/* Author: David Li                                             */
 
 
 /*  Using CALL SYMPUT to Create Macro Variables   */
