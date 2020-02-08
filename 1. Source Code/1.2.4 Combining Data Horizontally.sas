@@ -1,6 +1,6 @@
-/* Advanced_Programming_for_SAS                                                 */ 
-/* Chapter 15 • Combining Data Horizontally                                     */
-/* Author: David Li                                                             */
+/* Advanced_Programming_for_SAS                                    */ 
+/* Combining Data Horizontally                                     */
+/* Author: David Li                                                */
 
 /* Combining Data with the IF-THEN/ELSE Statement   */
 data mylib.employees_new;
